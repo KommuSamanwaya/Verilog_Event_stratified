@@ -1,0 +1,82 @@
+# KERNEL: ------ Simulation Started ------
+# KERNEL: INITIAL VALUES : time=0 clk=1 a=0
+# KERNEL: ACTIVE REGION : time=0 clk=1 a=0
+# KERNEL: NBA SCHEDULED : time=0 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=0 clk=1 a=0
+# KERNEL: ACTIVE REGION : time=10000 clk=0 a=0
+# KERNEL: NBA SCHEDULED : time=10000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=10000 clk=0 a=0
+# KERNEL: MONITOR (Postponed) : time=15000 clk=0 a=1
+# KERNEL: ACTIVE REGION : time=20000 clk=1 a=1
+# KERNEL: NBA SCHEDULED : time=20000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=20000 clk=1 a=1
+# KERNEL: MONITOR (Postponed) : time=25000 clk=1 a=0
+# KERNEL: ACTIVE REGION : time=30000 clk=0 a=0
+# KERNEL: NBA SCHEDULED : time=30000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=30000 clk=0 a=0
+# KERNEL: MONITOR (Postponed) : time=35000 clk=0 a=1
+# KERNEL: ACTIVE REGION : time=40000 clk=1 a=1
+# KERNEL: NBA SCHEDULED : time=40000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=40000 clk=1 a=1
+# KERNEL: MONITOR (Postponed) : time=45000 clk=1 a=0
+# KERNEL: ACTIVE REGION : time=50000 clk=0 a=0
+# KERNEL: NBA SCHEDULED : time=50000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=50000 clk=0 a=0
+# KERNEL: MONITOR (Postponed) : time=55000 clk=0 a=1
+# KERNEL: ACTIVE REGION : time=60000 clk=1 a=1
+# KERNEL: NBA SCHEDULED : time=60000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=60000 clk=1 a=1
+# KERNEL: MONITOR (Postponed) : time=65000 clk=1 a=0
+# KERNEL: ACTIVE REGION : time=70000 clk=0 a=0
+# KERNEL: NBA SCHEDULED : time=70000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=70000 clk=0 a=0
+# KERNEL: MONITOR (Postponed) : time=75000 clk=0 a=1
+# KERNEL: ACTIVE REGION : time=80000 clk=1 a=1
+# KERNEL: NBA SCHEDULED : time=80000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=80000 clk=1 a=1
+# KERNEL: MONITOR (Postponed) : time=85000 clk=1 a=0
+# KERNEL: ACTIVE REGION : time=90000 clk=0 a=0
+# KERNEL: NBA SCHEDULED : time=90000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=90000 clk=0 a=0
+# KERNEL: MONITOR (Postponed) : time=95000 clk=0 a=1
+# KERNEL: ACTIVE REGION : time=100000 clk=1 a=1
+# KERNEL: NBA SCHEDULED : time=100000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=100000 clk=1 a=1
+# KERNEL: MONITOR (Postponed) : time=105000 clk=1 a=0
+# KERNEL: ACTIVE REGION : time=110000 clk=0 a=0
+# KERNEL: NBA SCHEDULED : time=110000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=110000 clk=0 a=0
+# KERNEL: MONITOR (Postponed) : time=115000 clk=0 a=1
+# KERNEL: ACTIVE REGION : time=120000 clk=1 a=1
+# KERNEL: NBA SCHEDULED : time=120000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=120000 clk=1 a=1
+# KERNEL: MONITOR (Postponed) : time=125000 clk=1 a=0
+# KERNEL: ACTIVE REGION : time=130000 clk=0 a=0
+# KERNEL: NBA SCHEDULED : time=130000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=130000 clk=0 a=0
+# KERNEL: MONITOR (Postponed) : time=135000 clk=0 a=1
+# KERNEL: ACTIVE REGION : time=140000 clk=1 a=1
+# KERNEL: NBA SCHEDULED : time=140000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=140000 clk=1 a=1
+# KERNEL: MONITOR (Postponed) : time=145000 clk=1 a=0
+# KERNEL: ACTIVE REGION : time=150000 clk=0 a=0
+# KERNEL: NBA SCHEDULED : time=150000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=150000 clk=0 a=0
+# KERNEL: MONITOR (Postponed) : time=155000 clk=0 a=1
+# KERNEL: ACTIVE REGION : time=160000 clk=1 a=1
+# KERNEL: NBA SCHEDULED : time=160000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=160000 clk=1 a=1
+# KERNEL: MONITOR (Postponed) : time=165000 clk=1 a=0
+# KERNEL: ACTIVE REGION : time=170000 clk=0 a=0
+# KERNEL: NBA SCHEDULED : time=170000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=170000 clk=0 a=0
+# KERNEL: MONITOR (Postponed) : time=175000 clk=0 a=1
+# KERNEL: ACTIVE REGION : time=180000 clk=1 a=1
+# KERNEL: NBA SCHEDULED : time=180000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=180000 clk=1 a=1
+# KERNEL: MONITOR (Postponed) : time=185000 clk=1 a=0
+# KERNEL: ACTIVE REGION : time=190000 clk=0 a=0
+# KERNEL: NBA SCHEDULED : time=190000 a will update after 15 time units
+# KERNEL: MONITOR (Postponed) : time=190000 clk=0 a=0
+# KERNEL: MONITOR (Postponed) : time=195000 clk=0 a=1
+# KERNEL: ------ Simulation Finished ------
